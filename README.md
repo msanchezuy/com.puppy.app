@@ -13,6 +13,10 @@ Configuracion de colores a utilizar
    
     "colorAccent"      #FF5722
     
+Tema utilizado para dar soporte a versiones anteriores  Material Design
+
+    name="AppTheme" parent="Theme.AppCompat.Light.DarkActionBar"    
+    
 
 Captura de ide Android Studio 
     https://github.com/msanchezuy/com.puppy.app/blob/master/captura%20ide%20Android.png
