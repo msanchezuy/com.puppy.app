@@ -14,6 +14,11 @@ Configuracion de colores a utilizar
     "colorAccent"      #FF5722
     
 
+Captura de ide Android Studio 
+    https://github.com/msanchezuy/com.puppy.app/blob/master/captura%20ide%20Android.png
+
+Captura de la aplicacion ejecutando
+    https://github.com/msanchezuy/com.puppy.app/blob/master/capturaPuppy.png
 
 ------------------------------------------------------------ res/values.xml
 
