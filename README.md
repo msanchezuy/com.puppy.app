@@ -7,9 +7,9 @@ iconos usados y el codigo java de una actividad que despliega la imagen y se pue
 
 Configuracion de colores a utilizar
 
-   "colorPrimary"      #0fe4ff
+    "colorPrimary"      #0fe4ff
    
-   "colorPrimaryDark"  #008f9e
+    "colorPrimaryDark"  #008f9e
    
     "colorAccent"      #FF5722
     
